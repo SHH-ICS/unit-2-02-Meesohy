@@ -3,5 +3,5 @@
 
 def myFunction(Hello World!):
   # My Function
-print("Hello World!")            
+print(myFunction)            
 return "Hello World!"
