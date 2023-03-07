@@ -4,5 +4,5 @@
 def myFunction():
   # My Function
 print("Hello World!")
-
+myFunction()
 
